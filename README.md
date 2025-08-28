@@ -2,6 +2,12 @@
 
 Python REST API that converts voice queries to text, generates responses using LLMs, and optionally synthesizes speech.
 
+## Screenshots
+
+![Voice Assistant API Screenshot 1](Images/SS1.png)
+
+![Voice Assistant API Screenshot 2](Images/SS2.png)
+
 ## Requirements
 
 - Python 3.10+
